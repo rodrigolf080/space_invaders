@@ -1,3 +1,2 @@
 # alienInvasionAI
-Run main.py to start the game.
-Basic arcade game build using python and pygame
+[Under-Development] AI for space invaders arcade game
