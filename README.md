@@ -4,12 +4,9 @@
 # -- Developed by:
 # :: trevalkov
 #------------------------
-# -- Copyright:
-# :: Free Software (as in freedom)
-#------------------------
 # Setup python virtual environment and install dependencies
 #------------------------
-# -- Commands:
+#-- Commands:
 # :: Setup: ./setup.sh
 # :: Start: source activate
 # :: Stop: deactivate
